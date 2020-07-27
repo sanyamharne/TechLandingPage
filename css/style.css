@@ -26,6 +26,7 @@ h1 {
   color: #fa1616;
   font-weight: 900;
 }
+
 .nav-col {
   background: transparent;
   /* background-color: #18211e; */
@@ -62,4 +63,49 @@ h1 {
   text-align: center;
   color: #e4f9ff;
   font-weight: 400;
+}
+.padding-top {
+  padding-top: 50px;
+}
+.jumbotron {
+  background-color: #e4f9ff;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+.card {
+  margin: 0;
+  margin-right: 0;
+  width: 16rem;
+  margin-left: 20px;
+  margin-top: 30px;
+  border: #1b262c 3px solid;
+}
+.events-title {
+  padding: 0;
+  margin: 0;
+  border: #1b262c 3px solid;
+  width: 500px;
+  margin: 0 auto;
+  padding: 18px 15px;
+}
+.card-link:hover {
+  color: #1b262c;
+}
+.card-img-top {
+  height: 30vh;
+}
+.loading-events {
+  background-color: #e4f9ff;
+  text-align: center;
+  margin-top: 20px;
+  padding-top: 30px;
+  font-size: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+}
+.load {
+  border: 3px solid #1b262c;
+  padding: 12px 15px;
 }
